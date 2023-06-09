@@ -1,5 +1,3 @@
-### Hi there! 
-
 - 👻⠀Hi! I'm @calcmaster7
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=My+name+is+Dan+Gray;Nice+to+meet+you!!!)](https://git.io/typing-svg)
 - 🧑🏻‍💻 I’m a cyber security engineer , ethical hacker, and software developer
