@@ -10,7 +10,7 @@
 
 <!--
 **calcmaster7/calcmaster7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<img src="https://tryhackme-badges.s3.amazonaws.com/graywind.png" alt="TryHackMe">
 Here are some ideas to get you started:
 
 - 👻⠀Hi! I'm @calcmaster7
