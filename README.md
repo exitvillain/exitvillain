@@ -7,7 +7,7 @@
 - 😈 I'm interested in building hacker tools, writing exploits, and reverse engineering
 - 🤖 I also enjoy systems programming and web programming and a bit of artificial intelligence. 
 - 🔒 You might find a few miscelaneous projects posted here as well
-
+<script src="https://tryhackme.com/badge/1767563"></script>
 <!--
 **calcmaster7/calcmaster7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
