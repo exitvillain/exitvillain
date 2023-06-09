@@ -7,6 +7,7 @@
 - 😈 I'm interested in building hacker tools, writing exploits, and reverse engineering
 - 🤖 I also enjoy systems programming and web programming and a bit of artificial intelligence. 
 - 🔒 You might find a few miscelaneous projects posted here as well
+- <img src="https://tryhackme-badges.s3.amazonaws.com/graywind.png" alt="TryHackMe">
 <img src="https://tryhackme-badges.s3.amazonaws.com/graywind.png" alt="TryHackMe">
 <!--
 **calcmaster7/calcmaster7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
