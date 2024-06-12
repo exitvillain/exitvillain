@@ -1,4 +1,3 @@
-
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=+Dan+Gray+a.k.a+exit+villain)](https://git.io/typing-svg)
 - 👻 I’m a cyber security engineer , ethical hacker, and software developer
      who wants to write his own exploits instead of running someone else's 
