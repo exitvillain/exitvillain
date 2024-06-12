@@ -1,6 +1,6 @@
-- 👻⠀Hi! I'm @exitvillain
+
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=+Dan+Gray+a.k.a+exit+villain)](https://git.io/typing-svg)
-- 🧑🏻‍💻 I’m a cyber security engineer , ethical hacker, and software developer
+- 👻 I’m a cyber security engineer , ethical hacker, and software developer
      who wants to write his own exploits instead of running someone else's 
 - 😈 I'm interested in building hacker tools, writing exploits, and reverse engineering. Check out my cyber sec blog at exitvillain.com 
 - 🤖 I also enjoy systems programming and web programming and a bit of artificial intelligence. 
