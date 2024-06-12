@@ -4,8 +4,7 @@
      who wants to write his own exploits instead of running someone else's 
 - 😈 I'm interested in building hacker tools, writing exploits, and reverse engineering
 - 🤖 I also enjoy systems programming and web programming and a bit of artificial intelligence. 
-- 🔒 You might find a few miscelaneous projects posted here as well
-- Let's be honest some of my projects here are just for show. I want to demonstrate to future employers some programs I have written, such as
+- 🔒 Let's be honest some of my projects here are just for show. I want to demonstrate to future employers some programs I have written, such as
   my harvard AI programming assignments, some some of my assignments from cs50 web programming class like funamil and hackbay. I think the two programs that
   actually ARE usefull are wordsmith and musician multiplication.  If you like to read and look up words while you read, try wordsmith! It's great. Also
   if you want to know your musical keys as well as you know your times tables up to 12, check out music multiplcation! 
