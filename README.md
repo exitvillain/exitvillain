@@ -1,11 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+I'm+Dan+Gray+alias:exitvillain+)](https://git.io/typing-svg)
-- 👻 I’m a cyber security engineer , ethical hacker, and software developer
-     who wants to write his own exploits instead of running someone else's 
+- 👻 I’m a software engineer who also has great interest in cyber security and ethical hacking. I enjoy systems programming and web programming and a bit of artificial intelligence.  cyber security engineer , ethical hacker, and software developer
 - 😈 I'm interested in building hacker tools, writing exploits, and reverse engineering. Check out my cyber sec blog at exitvillain.com. I have a great into 
      to assembly code and the call stack on there. 
-- 🤖 I also enjoy systems programming and web programming and a bit of artificial intelligence. 
 - 🔒 Let's be honest some of my projects here are just for show. I want to demonstrate to future employers some more advanced programs I have written, such as
-  my assignments from the harvard artificial intelligence class, cs50AI. I think the two programs that actually ARE usefull are the simple ones. If you like 
+  my assignments from the harvard artificial intelligence class, cs50AI and ShardMaster, one of my assignments from Distributed Systems from grad school. I think the two programs that actually ARE usefull are the simple ones. If you like 
   to read and look up words while you read, try wordsmith! It's great. Also,if you want to know your musical keys as well as you know your times tables up to 
   12, check out musician multiplcation! 
 <img src="https://tryhackme-badges.s3.amazonaws.com/exitvillain.png" alt="TryHackMe2">
