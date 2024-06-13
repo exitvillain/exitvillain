@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+I'm+Dan+Gray+alias:exitvillain+)](https://git.io/typing-svg)
-- 👻 I’m a software engineer who also has great interest in cyber security and ethical hacking. I enjoy systems programming and web programming and a bit of artificial intelligence.  cyber security engineer , ethical hacker, and software developer
+- 👻 I’m a software engineer who also has great interest in cyber security and ethical hacking. I enjoy systems programming and web programming and a bit of artificial intelligence.  
 - 😈 I'm interested in building hacker tools, writing exploits, and reverse engineering. Check out my cyber sec blog at exitvillain.com. I have a great into 
      to assembly code and the call stack on there. 
 - 🔒 Let's be honest some of my projects here are just for show. I want to demonstrate to future employers some more advanced programs I have written, such as
