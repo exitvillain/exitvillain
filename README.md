@@ -10,6 +10,8 @@
 - 🧑🏻‍💻  if you want to see some of my code in action, how about just checking out https://gothamsonic.com , my nyc concert app. Or https://exitvillain.com, a cybersecurity social media platform I designed. 
 <img src="https://tryhackme-badges.s3.amazonaws.com/exitvillain.png" alt="Your Image Badge">
 
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1767563" style='border:none;'></iframe>
+
 <!--
 **exitvillain/exitvillain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
