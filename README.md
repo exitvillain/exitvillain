@@ -1,8 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+I'm+Dan+Gray+alias:exitvillain+)](https://git.io/typing-svg)
 - 👻 I’m a software engineer who also has great interest in cyber security and ethical hacking. I enjoy systems programming and web programming and a bit of artificial intelligence.  
 - 😈 I'm interested in building hacker tools, writing exploits, and reverse engineering. 
-- 🔒 If you are a prospective employer, I can show you some of the more advanced programs I have written, such as
-  my assignments from the harvard artificial intelligence class, cs50AI and ShardMaster, one of my assignments from Distributed Systems from grad school.
+- 🔒 If you're a prospective employer, I would be happy to share some of my more advanced projects, including assignments from Harvard's CS50AI (Artificial Intelligence) course and ShardMaster, a distributed systems project from my graduate studies.
 - 🤖 I think the programs here that you might want to actually use are the simple ones. If you like 
   to read and look up words while you read, try wordsmith! Also,if you want to know your musical keys as well as you know your times tables up to 
   12, check out musician multiplcation!
