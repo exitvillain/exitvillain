@@ -5,8 +5,8 @@
 - 🤖 I think the programs here that you might want to actually use are the simple ones. If you like 
   to read and look up words while you read, try wordsmith! Also,if you want to know your musical keys as well as you know your times tables up to 
   12, check out musician multiplcation.
-- 🧑🏻‍💻  if you want to see some of my code in action, check out https://exitvillain.com, a cybersecurity social media platform I designed written in Django. I am hosting it myself on AWS. Containerized using Docker. I have a great into 
-      to assembly code and the call stack on there.
+- 🧑🏻‍💻  Want to see some of my code in action? Visit exitvillain.com, a cybersecurity social media platform I designed and built using Django. I’m hosting it myself on AWS, containerized with Docker. There's also a great intro to assembly code and the call stack available there.
+ 
 <img src="https://tryhackme-badges.s3.amazonaws.com/exitvillain.png" alt="Your Image Badge"/>
 
 
