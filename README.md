@@ -4,7 +4,7 @@
 - 🔒 If you're a prospective employer, I would be happy to share some of my more advanced projects, including assignments from Harvard's CS50AI (Artificial Intelligence) course and ShardMaster, a distributed systems project from my graduate studies.
 - 🤖 I think the programs here that you might want to actually use are the simple ones. If you like 
   to read and look up words while you read, try wordsmith! Also,if you want to know your musical keys as well as you know your times tables up to 
-  12, check out musician multiplcation!
+  12, check out musician multiplcation.
 - 🧑🏻‍💻  if you want to see some of my code in action, check out https://exitvillain.com, a cybersecurity social media platform I designed written in Django. I am hosting it myself on AWS. Containerized using Docker. I have a great into 
       to assembly code and the call stack on there.
 <img src="https://tryhackme-badges.s3.amazonaws.com/exitvillain.png" alt="Your Image Badge"/>
