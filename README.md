@@ -6,7 +6,8 @@
   to read and look up words while you read, try wordsmith! Also,if you want to know your musical keys as well as you know your times tables up to 
   12, check out musician multiplcation!
 - 🧑🏻‍💻  if you want to see some of my code in action, check out https://exitvillain.com, a cybersecurity social media platform I designed written in Django. I am hosting it myself on AWS. Containerized using Docker. I have a great into 
-      to assembly code and the call stack on there.                            Here is my TryHackMe Badge. I've really done 87 boxes, not sure why it says 71:
+      to assembly code and the call stack on there.
+- 😈  Here is my TryHackMe Badge. I've really done 87 boxes, not sure why it says 71:
 <img src="https://tryhackme-badges.s3.amazonaws.com/exitvillain.png" alt="Your Image Badge"/>
 
 
