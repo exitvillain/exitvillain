@@ -1,12 +1,11 @@
+👻 I’m a software engineer with a strong interest in cybersecurity, ethical hacking, systems programming, web development, and artificial intelligence.
 
-- 👻 I’m a software engineer who also has great interest in cyber security and ethical hacking. I enjoy systems programming and web programming and a bit of artificial intelligence.  
-- 😈 I'm interested in building hacker tools, writing exploits, and reverse engineering. 
-- 🔒 If you're a prospective employer, I would be happy to share some of my more advanced projects, including assignments from Harvard's CS50AI (Artificial Intelligence) course and ShardMaster, a distributed systems project from my graduate studies.
-- 🤖 I think the programs here that you might want to actually use are the simple ones. If you like 
-  to read and look up words while you read, try wordsmith! Also,if you want to know your musical keys as well as you know your times tables up to 
-  12, check out musician multiplcation.
-- 🧑🏻‍💻  Want to see some of my code in action? Visit [**exitvillain.com**](https://exitvillain.com), a cybersecurity social media platform I designed and built using Django. I’m hosting it myself on AWS, containerized with Docker. There's also a great intro to assembly code and the call stack available there.
- 
+🔒 For prospective employers, I’d be happy to share advanced projects, including assignments from Harvard's CS50AI (Artificial Intelligence) and ShardMaster, a distributed systems project from my graduate studies.
+
+🧑🏻‍💻 Want to see my work in action? Visit [**exitvillain.com**](https://exitvillain.com),, a cybersecurity social media platform I designed and built using Django. It’s hosted on AWS, containerized with Docker, and includes an educational section on assembly code and the call stack.
+
+🤖 Check out Wordsmith, a vocabulary journal builder powered by a dictionary API. It’s simple yet practical, perfect for avid readers!
+
 
 <!--
 **exitvillain/exitvillain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
