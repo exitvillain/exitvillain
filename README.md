@@ -5,7 +5,7 @@
 - 🤖 I think the programs here that you might want to actually use are the simple ones. If you like 
   to read and look up words while you read, try wordsmith! Also,if you want to know your musical keys as well as you know your times tables up to 
   12, check out musician multiplcation.
-- 🧑🏻‍💻  Want to see some of my code in action? Visit exitvillain.com, a cybersecurity social media platform I designed and built using Django. I’m hosting it myself on AWS, containerized with Docker. There's also a great intro to assembly code and the call stack available there.
+- 🧑🏻‍💻  Want to see some of my code in action? Visit [**exitvillain.com**](https://exitvillain.com), a cybersecurity social media platform I designed and built using Django. I’m hosting it myself on AWS, containerized with Docker. There's also a great intro to assembly code and the call stack available there.
  
 
 <!--
