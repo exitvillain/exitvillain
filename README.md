@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+I'm+Dan+Gray,+welcome!+)](https://git.io/typing-svg)
+
 - 👻 I’m a software engineer who also has great interest in cyber security and ethical hacking. I enjoy systems programming and web programming and a bit of artificial intelligence.  
 - 😈 I'm interested in building hacker tools, writing exploits, and reverse engineering. 
 - 🔒 If you're a prospective employer, I would be happy to share some of my more advanced projects, including assignments from Harvard's CS50AI (Artificial Intelligence) course and ShardMaster, a distributed systems project from my graduate studies.
@@ -7,9 +7,6 @@
   12, check out musician multiplcation.
 - 🧑🏻‍💻  Want to see some of my code in action? Visit exitvillain.com, a cybersecurity social media platform I designed and built using Django. I’m hosting it myself on AWS, containerized with Docker. There's also a great intro to assembly code and the call stack available there.
  
-<img src="https://tryhackme-badges.s3.amazonaws.com/exitvillain.png" alt="Your Image Badge"/>
-
-
 
 <!--
 **exitvillain/exitvillain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
