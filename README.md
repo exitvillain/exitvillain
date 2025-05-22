@@ -4,7 +4,7 @@
 
 🧑🏻‍💻 Want to see my work in action? Visit [**exitvillain.com**](https://exitvillain.com), a cybersecurity social media platform I designed and built using Django. It’s hosted on AWS, containerized with Docker, and includes an educational section on assembly code and the call stack.
 
-🎵 I also created [GothamSonic.com](https://gothamsonic.com), a music discovery platform for NYC’s underground scene. It features a custom-built [React music player](https://github.com/exitvillain/gothamsonic-player) with adaptive bitrate streaming, playlist support, infinite scroll, and a real-time like-based ranking system — all running live in production.
+🎵 I also created [**GothamSonic.com**](https://gothamsonic.com), a music discovery platform for NYC’s underground scene. It features a custom-built [React music player](https://github.com/exitvillain/gothamsonic-player) with adaptive bitrate streaming, playlist support, infinite scroll, and a real-time like-based ranking system — all running live in production.
 
 🤖 Check out Wordsmith, a vocabulary journal builder powered by a dictionary API. It’s simple yet practical, perfect for avid readers!
 
