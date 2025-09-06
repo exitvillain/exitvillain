@@ -2,6 +2,8 @@
 
 -- For prospective employers, I’d be happy to share advanced projects, including assignments from Harvard's CS50AI (Artificial Intelligence) and ShardMaster, a distributed systems project from my graduate studies.
 
+-- I created a little research lab for red teaming research,  [**ObfusLabs.com**](https://ObfusLabs.com), check it out!  
+
 -- Want to see my work in action? Visit [**exitvillain.com**](https://exitvillain.com), a cybersecurity social media platform I designed and built using Django. It’s hosted on AWS, containerized with Docker, and includes an educational section on assembly code and the call stack.
 
 -- I also created [**GothamSonic.com**](https://gothamsonic.com), a music discovery platform for NYC’s underground scene. It features a custom-built [React music player](https://github.com/exitvillain/gothamsonic-player) with adaptive bitrate streaming, playlist support, infinite scroll, and a real-time like-based ranking system — all running live in production.
