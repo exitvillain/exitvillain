@@ -1,15 +1,17 @@
--- I’m a software engineer with a strong interest in cybersecurity, ethical hacking, systems programming, web development, and artificial intelligence.
+-- I’m a programmer turned offensive security engineer, focused on systems, process execution, and how software behaves under real-world conditions.
 
--- For prospective employers, I’d be happy to share advanced projects, including assignments from Harvard's CS50AI (Artificial Intelligence) and ShardMaster, a distributed systems project from my graduate studies.
+I build full-stack applications and low-level tooling to understand both how systems are constructed and how they can be exploited.
 
--- I created a little research lab for red teaming research,  [**ObfusLabs.com**](https://ObfusLabs.com), check it out!  
+I designed and built [**exitvillain.com**](https://exitvillain.com)
+, a cybersecurity-focused platform using Django, Docker, and AWS, with hands-on content covering topics like assembly, the call stack, and application behavior.
 
--- Want to see my work in action? Visit [**exitvillain.com**](https://exitvillain.com), a cybersecurity social media platform I designed and built using Django. It’s hosted on AWS, containerized with Docker, and includes an educational section on assembly code and the call stack.
+I also created  [**GothamSonic.com**](https://gothamsonic.com)
+, a live music discovery platform featuring a custom  [React music player](https://github.com/exitvillain/gothamsonic-player)
+ with adaptive streaming, playlists, infinite scroll, and real-time ranking — all running in production.
 
--- I also created [**GothamSonic.com**](https://gothamsonic.com), a music discovery platform for NYC’s underground scene. It features a custom-built [React music player](https://github.com/exitvillain/gothamsonic-player) with adaptive bitrate streaming, playlist support, infinite scroll, and a real-time like-based ranking system — all running live in production.
+On the systems side, I’ve built a Unix shell in C and a Windows process launcher in C#, focusing on process creation, I/O redirection, and OS-level behavior — the same primitives underlying command execution and post-exploitation techniques.
 
--- Check out Wordsmith, a vocabulary journal builder powered by a dictionary API. It’s simple yet practical, perfect for avid readers!
-
+I’m currently preparing for the Certified Red Team Operator (CRTO), with a focus on Windows internals, process behavior, and offensive security.
 
 <!--
 **exitvillain/exitvillain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
