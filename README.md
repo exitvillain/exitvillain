@@ -7,7 +7,7 @@ I designed and built [**exitvillain.com**](https://exitvillain.com)
 
 I also created  [**GothamSonic.com**](https://gothamsonic.com)
 , a live music discovery platform featuring a custom  [React music player](https://github.com/exitvillain/gothamsonic-player)
- with adaptive streaming, playlists, infinite scroll, and real-time ranking — all running in production.
+ with adaptive streaming, likes, play counts, Artist Profiles, playlists, and real-time ranking — all running in production.
 
 On the systems side, I’ve built a Unix shell in C and a Windows process launcher in C#, focusing on process creation, I/O redirection, and OS-level behavior — the same primitives underlying command execution and post-exploitation techniques.
 
