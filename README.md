@@ -2,12 +2,14 @@
 
 I build full-stack applications and low-level tooling to understand both how systems are constructed and how they can be exploited.
 
-I designed and built [**exitvillain.com**](https://exitvillain.com)
-, a cybersecurity-focused platform using Django, Docker, and AWS, with hands-on content covering topics like assembly, the call stack, and application behavior.
 
 I also created  [**SignalBleed.nyc**](https://signalbleed.nyc)
 , a live music discovery platform featuring a custom  [React music player](https://github.com/exitvillain/signalbleed-player)
  with adaptive streaming, likes, play counts, Artist Profiles, playlists, and real-time ranking — all running in production.
+
+I designed and built [**exitvillain.com**](https://exitvillain.com)
+, a cybersecurity-focused platform using Django, Docker, and AWS, with hands-on content covering topics like assembly, the call stack, and application behavior.
+
 
 On the systems side, I’ve built a Unix shell in C and a Windows process launcher in C#, focusing on process creation, I/O redirection, and OS-level behavior — the same primitives underlying command execution and post-exploitation techniques.
 
